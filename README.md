@@ -1,6 +1,6 @@
 <h1>Todo List</h1>
 
-Find your book : https://celadon-creponne-da2728.netlify.app/
+Check todo app : https://timely-zuccutto-3ef78c.netlify.app/
 
 </br>
 Test task info: https://drive.google.com/file/d/17i3HWkCW8OdvmczEcE2p3q-ljU-2sAWz/view
